@@ -6,3 +6,8 @@ My project focus on HTML
 `pip install`
 
 `composoer install`
+
+### Todo list
+- [ ] Home page
+- [ ] About page
+- [x] serveice page
